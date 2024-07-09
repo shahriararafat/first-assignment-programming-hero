@@ -134,7 +134,7 @@ button:hover{
     text-align: center;
     margin-bottom: 70px;
 }
-
+/* content tow design start */
 .content-two{
     width: 946px;
     height: 336px;
@@ -148,13 +148,13 @@ button:hover{
     align-items: center;
 }
 
-.img{
+.content-two .img{
     width: 259.56px;
     height: 217.01px;
     margin-right: 50px;
 }
 
-.text h3{
+.content-two .text h3{
     color: rgba(13, 19, 33, 0.7);
     font-family: Azeret Mono;
     font-size: 24px;
@@ -164,7 +164,7 @@ button:hover{
     margin-bottom: 30px;
 }
 
-.text p{
+.content-two .text p{
     color: #565a64;
     font-family: Azeret Mono;
     font-size: 16px;
@@ -174,7 +174,7 @@ button:hover{
     margin-bottom: 50px;
 }
 
-.text button{
+.content-two .text button{
     margin-left: 50px;
     box-sizing: border-box;
     border: 2px solid rgb(13, 19, 33);
@@ -183,11 +183,11 @@ button:hover{
     height: 48px;
     font-size: 20PX;
     background: white;
-
-    
-
-
 }
+
+/* content tow design end */
+
+/* content three design start */
 
 .content-three{
     width: 946px;
@@ -197,7 +197,32 @@ button:hover{
     background-color: #fefefe;
     border-radius: 10px;
     margin-bottom: 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
+
+.content-three .img{
+    width: 259.56px;
+    height: 217.01px;
+    margin-left: 50px;
+}
+
+.content-three .text h3{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: right;
+    margin-right: 50px;
+    margin-bottom: 30px;
+
+}
+
+
+
+/* content three design end */
+
 .content-four{
     width: 946px;
     height: 336px;
