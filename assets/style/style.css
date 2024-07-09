@@ -107,13 +107,60 @@ button:hover{
 .second-container{
     width: 1140px;
     height: 1395px;
-    margin-left: 148px;
-    margin-right: 152px;
+    /* margin-left: 148px;
+    margin-right: 152px; */
     border: 2px solid red;
     border-radius: 10px;
     margin: 0 auto  ;
-    
+    background-color: rgb(250, 250, 251);
+    /* padding: 80px 97px 80px 97px; */
+}
 
+.content-one h1{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    text-align: center;
+}
+
+.content-one p{
+    color: rgb(73, 77, 87);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.content-two{
+    width: 946px;
+    height: 336px;
+    border: 2px solid red;
+    margin: 0 auto;
+    background-color: #fefefe;
+    border-radius: 10px;
+    margin-bottom: 40px;
+}
+.content-three{
+    width: 946px;
+    height: 336px;
+    border: 2px solid red;
+    margin: 0 auto;
+    background-color: #fefefe;
+    border-radius: 10px;
+    margin-bottom: 40px;
+}
+.content-four{
+    width: 946px;
+    height: 336px;
+    border: 2px solid red;
+    margin: 0 auto;
+    background-color: #fefefe;
+    border-radius: 10px;
+    margin-bottom: 40px;
 }
 
 /* second container start end */
