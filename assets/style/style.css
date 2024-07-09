@@ -143,7 +143,52 @@ button:hover{
     background-color: #fefefe;
     border-radius: 10px;
     margin-bottom: 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
+
+.img{
+    width: 259.56px;
+    height: 217.01px;
+    margin-right: 50px;
+}
+
+.text h3{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: left;
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
+
+.text p{
+    color: #565a64;
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;;
+    text-align: left;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+.text button{
+    margin-left: 50px;
+    box-sizing: border-box;
+    border: 2px solid rgb(13, 19, 33);
+    opacity: 0.7;
+    width: 150px;
+    height: 48px;
+    font-size: 20PX;
+    background: white;
+
+    
+
+
+}
+
 .content-three{
     width: 946px;
     height: 336px;
@@ -163,4 +208,5 @@ button:hover{
     margin-bottom: 40px;
 }
 
-/* second container start end */
+
+/* second container end here */
