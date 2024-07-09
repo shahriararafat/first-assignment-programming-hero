@@ -39,8 +39,7 @@
 .banner-container{
     width: 1920px;
     height: 652px;
-
-    margin: 0 auto;
+    margin-bottom: 75PX;
     background-image: url(/assets/images/Hero-bg.png);
     background-repeat: no-repeat;
     background-position: center ;
@@ -101,3 +100,20 @@ button:hover{
 }
 
 /* banner container end here */
+
+
+/* second container start here */
+
+.second-container{
+    width: 1140px;
+    height: 1395px;
+    margin-left: 148px;
+    margin-right: 152px;
+    border: 2px solid red;
+    border-radius: 10px;
+    margin: 0 auto  ;
+    
+
+}
+
+/* second container start end */
