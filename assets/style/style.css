@@ -40,7 +40,7 @@
     width: 1920px;
     height: 652px;
     margin-bottom: 75PX;
-    background-image: url(/assets/images/hero-bg.png);
+    background-image: url(../hero-bg.png);
     background-repeat: no-repeat;
     background-position: center ;
     background-size: cover;
@@ -133,6 +133,7 @@ button:hover{
     font-weight: 400;
     text-align: center;
     margin-bottom: 70px;
+    
 }
 /* content tow design start */
 .content-two{
@@ -145,12 +146,14 @@ button:hover{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    box-shadow: #565a64;
 }
 
 .content-two .img{
     width: 259.56px;
     height: 217.01px;
     margin-right: 50px;
+    box-shadow: #565a64;
 }
 
 .content-two .text h3{
@@ -564,7 +567,7 @@ button:hover{
     height: 314px;
     margin: 0 auto;
     margin-top: 75px ;
-    background-image: url(/assets/images/handshake.jpg);
+    background-image: url(../handshake.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
