@@ -554,6 +554,53 @@ button:hover{
 
 /* third target box end */
 
-
-
 /* my target section end here */
+
+
+/* feedback section start from here */
+
+.feedback{
+    width: 1140px;
+    height: 314px;
+    border: 2px solid red;
+    margin: 0 auto;
+    margin-top: 75px ;
+    background-image: url(/assets/images/handshake.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(0,0,0,0.5);
+    background-blend-mode: overlay;
+}
+
+.feedback-text{
+    width: 730px;
+    height: 104px;
+    text-align: center;
+    color: white;
+    margin: 0 auto;
+}
+
+.feedback-text h1{
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.feedback-text p{
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.feedback form{
+    width: 548px;
+    height: 57px;
+    margin: 0 auto;
+}
+
+/* feedback section end here */
