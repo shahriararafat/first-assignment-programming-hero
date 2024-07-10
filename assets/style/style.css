@@ -307,3 +307,53 @@ button:hover{
 
 /* second container end here */
 
+/* My inspiration section start from here */
+
+.inspiration{
+    width: 1140px;
+    height: 777px;
+    margin: 0 auto  ;
+    margin-top: 80px;
+}
+
+.ins-text{
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.ins-text h1{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    text-align: center;
+}
+
+.ins-text p{
+    color: rgb(85, 89, 97);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+}
+
+.ins-video{
+    width: 1140px;
+    height: 614px;
+    box-sizing: border-box;
+    border: 1px solid rgb(207, 208, 211);
+    border-radius: 20px;
+    margin: 0 auto;
+}
+
+
+.yt-video iframe{
+    width: 1076px;
+    height: 550px;
+    border-radius: 15px;
+    overflow: hidden;
+    margin: 32px;
+}
+/* My inspiration section end here */
