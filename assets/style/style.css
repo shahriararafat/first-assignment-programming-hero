@@ -40,7 +40,7 @@
     width: 1920px;
     height: 652px;
     margin-bottom: 75PX;
-    background-image: url(../assets/images/Hero-bg.png);
+    background-image: url(/assets/images/hero-bg.png);
     background-repeat: no-repeat;
     background-position: center ;
     background-size: cover;
@@ -564,12 +564,13 @@ button:hover{
     height: 314px;
     margin: 0 auto;
     margin-top: 75px ;
-    background-image: url(../assets/images/handshake.jpg);
+    background-image: url(/assets/images/handshake.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     background-color: rgba(0,0,0,0.5);
     background-blend-mode: overlay;
+    
 }
 
 .feedback-text{
