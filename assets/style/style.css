@@ -118,7 +118,7 @@ button:hover{
 
  .content-one h1{
     color: rgb(13, 19, 33);
-    font-family: Azeret Mono;
+    font-family: inter;
     font-size: 32px;
     font-weight: 800;
     line-height: 37px;
@@ -128,10 +128,9 @@ button:hover{
 
 .content-one p{
     color: rgb(73, 77, 87);
-    font-family: Azeret Mono;
+    font-family: inter;
     font-size: 16px;
     font-weight: 400;
-    line-height: 26px;
     text-align: center;
     margin-bottom: 70px;
 }
@@ -156,7 +155,7 @@ button:hover{
 
 .content-two .text h3{
     color: rgba(13, 19, 33, 0.7);
-    font-family: Azeret Mono;
+    font-family: inter;
     font-size: 24px;
     font-weight: 700;
     text-align: left;
@@ -166,7 +165,7 @@ button:hover{
 
 .content-two .text p{
     color: #565a64;
-    font-family: Azeret Mono;
+    font-family: inter;
     font-size: 16px;
     font-weight: 400;;
     text-align: left;
@@ -209,7 +208,7 @@ button:hover{
 
 .content-three .text h3{
     color: rgba(13, 19, 33, 0.7);
-    font-family: Azeret Mono;
+    font-family: inter;
     font-size: 24px;
     font-weight: 700;
     text-align: left;
@@ -220,7 +219,7 @@ button:hover{
 
 .content-three .text p{
     color: #565a64;
-    font-family: Azeret Mono;
+    font-family: inter;
     font-size: 16px;
     font-weight: 400;;
     text-align: left;
@@ -275,7 +274,7 @@ button:hover{
 
 .content-four .text h3{
     color: rgba(13, 19, 33, 0.7);
-    font-family: Azeret Mono;
+    font-family: inter;
     font-size: 24px;
     font-weight: 700;
     text-align: left;
@@ -286,7 +285,7 @@ button:hover{
 
 .content-four .text p{
     color: #565a64;
-    font-family: Azeret Mono;
+    font-family: inter;
     font-size: 16px;
     font-weight: 400;;
     text-align: left;
@@ -323,7 +322,7 @@ button:hover{
 
 .ins-text h1{
     color: rgb(13, 19, 33);
-    font-family: Azeret Mono;
+    font-family: inter;
     font-size: 32px;
     font-weight: 800;
     line-height: 37px;
@@ -332,7 +331,7 @@ button:hover{
 
 .ins-text p{
     color: rgb(85, 89, 97);
-    font-family: Azeret Mono;
+    font-family: inter;
     font-size: 16px;
     font-weight: 400;
     line-height: 26px;
@@ -357,3 +356,204 @@ button:hover{
     margin: 32px;
 }
 /* My inspiration section end here */
+
+
+/* my target section start from here  */
+
+.my-target{
+    width: 1140px;
+    height: 463px;
+    margin: 0 auto;
+    margin-top: 75px;
+}
+
+.target-text{
+    width: 852px;
+    height: 115px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
+.target-text h1{
+    color: rgb(13, 19, 33);
+    font-family: inter;
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+}
+.target-text p{
+    color: rgb(13, 19, 33);
+    font-family: inter;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.main-target-box{
+    display: flex;
+    justify-content: space-between;
+}
+
+/* first target box start */
+
+.first-target-box{
+    width: 364px;
+    height: 300px;
+    border-radius: 10px;
+    background-color: #fff6f4;
+}
+
+.first-box-content{
+    width: 284px;
+    height: 220px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.first-box-content h1{
+    width: 284px;
+    height: 36px;
+    color: rgb(13, 19, 33);
+    font-family: inter;
+    font-size: 24px;
+    font-weight: 800;
+    text-align: left;
+}
+
+.first-box-content p{
+    color: rgb(13, 19, 33);
+    font-family: inter;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+}
+
+.first-box-content img{
+    position: relative;
+    width: 56px;
+    height: 56px;
+}
+
+.first-box-content a{
+    color: rgb(13, 19, 33);
+    font-family: inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+}
+
+/* first target box end */
+
+/* second target box start */
+
+.second-target-box{
+    width: 364px;
+    height: 300px;
+    border-radius: 10px;
+    background-color: #f2f6fe;
+}
+
+.second-box-content{
+    width: 284px;
+    height: 220px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.second-box-content h1{
+    width: 284px;
+    height: 36px;
+    color: rgb(13, 19, 33);
+    font-family: inter;
+    font-size: 24px;
+    font-weight: 800;
+    text-align: left;
+}
+
+.second-box-content p{
+    color: rgb(13, 19, 33);
+    font-family: inter;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+}
+
+.second-box-content img{
+    position: relative;
+    width: 56px;
+    height: 56px;
+}
+
+.second-box-content a{
+    color: rgb(13, 19, 33);
+    font-family: inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+}
+
+/* end target box start */
+
+/* third target box start */
+
+.third-target-box{
+    width: 364px;
+    height: 300px;
+    border-radius: 10px;
+    background-color: #fffdf2;
+}
+
+.third-box-content{
+    width: 284px;
+    height: 220px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.third-box-content h1{
+    width: 284px;
+    height: 36px;
+    color: rgb(13, 19, 33);
+    font-family: inter;
+    font-size: 24px;
+    font-weight: 800;
+    text-align: left;
+}
+
+
+.third-box-content p{
+    color: rgb(13, 19, 33);
+    font-family: inter;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+}
+
+.third-box-content img{
+    position: relative;
+    width: 56px;
+    height: 56px;
+}
+
+.third-box-content a{
+    color: rgb(13, 19, 33);
+    font-family: inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+}
+
+/* third target box end */
+
+
+
+/* my target section end here */
