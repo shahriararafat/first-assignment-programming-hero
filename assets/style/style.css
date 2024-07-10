@@ -104,6 +104,7 @@ button:hover{
 
 /* second container start here */
 
+
 .second-container{
     width: 1140px;
     height: 1395px;
@@ -115,14 +116,15 @@ button:hover{
     /* padding: 80px 97px 80px 97px; */
 }
 
-.content-one h1{
+ .content-one h1{
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
     font-size: 32px;
     font-weight: 800;
     line-height: 37px;
     text-align: center;
-}
+    padding-top: 60px;
+} 
 
 .content-one p{
     color: rgb(73, 77, 87);
@@ -304,3 +306,4 @@ button:hover{
 }
 
 /* second container end here */
+
