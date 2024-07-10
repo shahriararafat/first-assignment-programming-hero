@@ -629,5 +629,47 @@ button:hover{
     font-size: 20px;
 }
 
-
 /* feedback section end here */
+
+/* footer section start here */
+
+.footer{
+    width: 1920px;
+    height: 100px;
+    margin: 0 auto;
+    background-color: #f7f8f8;
+    margin-top: 50px;
+    
+}
+
+.footer-content{
+    width: 1140px;
+    height: 36px;
+    margin: 0 auto;
+    display: flex;
+    padding-top: 40px;
+    justify-content: space-between;
+
+}
+
+.footer-text{
+    text-align: left;
+    color: rgb(13, 19, 33);
+    font-family: inter;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0px;
+}
+
+.footer-icon img{
+    padding-right:10px;
+
+}
+
+
+/* footer section end here */
