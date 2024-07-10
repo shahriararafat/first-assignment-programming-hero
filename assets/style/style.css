@@ -147,6 +147,8 @@ button:hover{
     justify-content: space-around;
     align-items: center;
     box-shadow: #565a64;
+    border-radius: 16px;
+background: linear-gradient(90deg, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.1) 100%);
 }
 
 .content-two .img{
@@ -201,6 +203,7 @@ button:hover{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    background: linear-gradient(270deg, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.1) 100%);
 }
 
 .content-three .img{
@@ -253,9 +256,7 @@ button:hover{
     display: flex;
     justify-content: space-around;
     align-items: center;  
-    background: linear-gradient(
-        to right white
-    );
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.1) 100%);
 }
 .content-four::after{
     background: linear-gradient
