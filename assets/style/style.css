@@ -213,8 +213,8 @@ button:hover{
     font-family: Azeret Mono;
     font-size: 24px;
     font-weight: 700;
-    text-align: right;
-    margin-right: 50px;
+    text-align: left;
+    margin-left: 50px;
     margin-bottom: 30px;
 
 }
@@ -224,14 +224,13 @@ button:hover{
     font-family: Azeret Mono;
     font-size: 16px;
     font-weight: 400;;
-    text-align: right;
-    margin-right: 50px;
+    text-align: left;
+    margin-left: 50px;
     margin-bottom: 50px;
 }
 
 .content-three .text button{
-    margin-right: 50px;
-    margin-left: 30px;
+    margin-left: 50px;
     box-sizing: border-box;
     border: 2px solid rgb(13, 19, 33);
     opacity: 0.7;
@@ -240,8 +239,6 @@ button:hover{
     font-size: 20PX;
     background: white;
 }
-
-
 
 /* content three design end */
 
@@ -261,7 +258,7 @@ button:hover{
 .content-four .img{
     width: 259.56px;
     height: 217.01px;
-    margin-left: 50px;
+    margin-right: 50px;
 }
 
 .content-four .text h3{
@@ -269,9 +266,9 @@ button:hover{
     font-family: Azeret Mono;
     font-size: 24px;
     font-weight: 700;
-    text-align: right;
-    margin-right: 50px;
-    margin-bottom: 30px;
+    text-align: left;
+    margin-left: 50px;
+    margin-bottom: 20px;
 
 }
 
@@ -280,14 +277,13 @@ button:hover{
     font-family: Azeret Mono;
     font-size: 16px;
     font-weight: 400;;
-    text-align: right;
-    margin-right: 50px;
+    text-align: left;
+    margin-left: 50px;
     margin-bottom: 50px;
 }
 
 .content-four .text button{
-    margin-right: 50px;
-    margin-left: 30px;
+    margin-left: 50px;
     box-sizing: border-box;
     border: 2px solid rgb(13, 19, 33);
     opacity: 0.7;
@@ -296,7 +292,5 @@ button:hover{
     font-size: 20PX;
     background: white;
 }
-
-
 
 /* second container end here */
